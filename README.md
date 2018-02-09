@@ -1,5 +1,5 @@
 # grc-romanian-fields
-Wordpress/Woocommerce - Romanian checkout fields with CIF validation on ANAF API
+Wordpress/Woocommerce Plugin - Romanian checkout fields with CIF validation on ANAF API
 
 Add 4 custom fields for Romanian Legislation:
 - CIF/CUI
