@@ -14,3 +14,7 @@ Also the fields are displayed in the adress billing beneath Company name - on ch
 You can also modify this fields as admin through orders or as a user from my-account page -> my-adresses.
 
 Preview: https://drive.google.com/file/d/1AjbLy-QCbsmUWveCcPVC_bA_XfYja0Qk/view?usp=drivesdk
+
+Tested with: 
+Wordpress 4.9.2
+Woocommerce 3.2.6
