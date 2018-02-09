@@ -13,4 +13,4 @@ Also the fields are displayed in the adress billing beneath Company name - on ch
 
 You can also modify this fields as admin through orders or as a user from my-account page -> my-adresses.
 
-Preview: https://www.awesomescreenshot.com/image/3162630/4487c950421b0f1fe4a24b4cbbde7fb2
+Preview: https://drive.google.com/file/d/1AjbLy-QCbsmUWveCcPVC_bA_XfYja0Qk/view?usp=drivesdk
