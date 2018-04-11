@@ -1,7 +1,7 @@
 <?php
 	/*
 		Plugin Name: Check CIF/CUI RO
-		Description: Checks CIF/CUI through API from Anaf - https://webservicesp.anaf.ro/PlatitorTvaRest/api/v1/
+		Description: Checks CIF/CUI through API from Anaf - https://webservicesp.anaf.ro/PlatitorTvaRest/api/v3/
 		Version:     1.0
 		Author: Gheorghiu Robert Cezar
 		Author URI: https://www.cryo.ro/
@@ -198,7 +198,7 @@
 				
 				
 				//API Url
-				$url = 'https://webservicesp.anaf.ro:/PlatitorTvaRest/api/v1/ws/tva';
+				$url = 'https://webservicesp.anaf.ro:/PlatitorTvaRest/api/v3/ws/tva';
 				
 				//Initiate cURL.
 				$ch = curl_init($url);
