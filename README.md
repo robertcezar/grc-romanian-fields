@@ -7,7 +7,7 @@ Add 4 custom fields for Romanian Legislation:
 - Bank account number
 - Bank name
 
-When the checkout is submitted it checks the CIF/CUI with the ANAF API to see if it is a valid company: https://webservicesp.anaf.ro/PlatitorTvaRest/api/v3/
+When the checkout is submitted it checks the CIF/CUI with the ANAF API to see if it is a valid company: https://static.anaf.ro/static/10/Anaf/Informatii_R/documentatie_SW_01112017.txt
 
 Also the fields are displayed in the adress billing beneath Company name - on chekcout page, thank you page, admin orders and emails.
 
