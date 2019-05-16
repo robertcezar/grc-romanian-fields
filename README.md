@@ -1,4 +1,10 @@
 # grc-romanian-fields
+
+!!! THIS CODE is not maintained anymore - please see the official maintened Wordpress repo here: 
+https://wordpress.org/plugins/romanian-billing-fields/
+
+
+//
 Wordpress/Woocommerce Plugin - Romanian checkout fields with CIF validation on ANAF API
 
 Add 4 custom fields for Romanian Legislation:
@@ -18,3 +24,4 @@ Preview: https://drive.google.com/file/d/1AjbLy-QCbsmUWveCcPVC_bA_XfYja0Qk/view?
 Tested with: 
 Wordpress 4.9.2
 Woocommerce 3.2.6
+//
