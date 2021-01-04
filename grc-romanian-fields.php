@@ -3,7 +3,7 @@
 		Plugin Name: Check CIF/CUI RO
 		Description: Checks CIF/CUI through API from Anaf - https://static.anaf.ro/static/10/Anaf/Informatii_R/documentatie_SW_01112017.txt
 		Version:     1.0
-		Author: Gheorghiu Robert Cezar -  robertviruss[@]gmail.com
+		Author: Gheorghiu Robert Cezar 
 		Author URI: //
 	*/	
 	
